@@ -1,0 +1,2 @@
+The following is the program used on the WeMos D1 R1 device which is connected to the 
+MPU-6050 Gyro sensor and the reading data is sent to Thingspeak
